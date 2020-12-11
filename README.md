@@ -1,2 +1,2 @@
 # SCAMP-Assesment
-Sche Code Africa Assessment test for Data Science Cohort2
+She Code Africa Assessment test for Data Science Cohort2
